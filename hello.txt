@@ -2,9 +2,6 @@ hello git
 hello git
 hello git
 hello git
-hello git
-hello git
-hello git
 version-1
 version-2
 version-3
